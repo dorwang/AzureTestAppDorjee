@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: dorjeepool
+  name: swimmingPool
   vmImage: 'windows-latest'
 
 variables:
